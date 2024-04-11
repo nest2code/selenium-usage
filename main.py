@@ -20,6 +20,6 @@ data_entry.send_keys('python')
 # I do send the enter key
 data_entry.send_keys(Keys.ENTER)
 
-# since my Google Chrome is not compatible with my Google Chrome i decide to use the time module
+# since my Google Chrome is not compatible with the Chrome driver I decide to use the time module
 time.sleep(100)
 
